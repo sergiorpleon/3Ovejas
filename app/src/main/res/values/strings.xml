@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">3Ovejas</string>
+    <string name="autor">Sergio Ramón Pérez León 2021</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="nuevo_nivel">¡Nuevo Nivel!</string>
+    <string name="ganador">¡FELICIDADES!</string>
+    <string name="explicacion0">Explicaión del Juego 3Ovejas</string>
+    <string name="explicacion1">El objetivo del juego es meter las ovejas en el granero con la ayuda del perro pastor.</string>
+    <string name="explicacion2">Para poder mover la oveja por la fila, el perro debe estar en la fila de la oveja. \nDebes mover al perro en esa fila para que la oveja se mueva.</string>
+    <string name="explicacion3">Para poder mover la oveja por la columna, el perro debe estar en la columna de la oveja. Debes mover al perro en esa columna para que la oveja se mueva.</string>
+    <string name="explicacion4">La oveja imitará el movimiento del perro siempre y cuando el perro se mueva en su fila o en su columna y no haya un obstáculo que impida su movimiento.</string>
+    <string name="explicacion5">El perro puede mover a la oveja teniendo arbustos por el medio.</string>
+    <string name="explicacion6">Aceptar</string>
+    <string name="level">level</string>
+
+
+</resources>

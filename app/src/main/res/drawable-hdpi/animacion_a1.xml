@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+
+    <item
+        android:drawable="@drawable/movhorizontal1"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/movhorizontal2"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/movhorizontal3"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/movhorizontal4"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/movhorizontal5"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/movhorizontal6"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/movhorizontal7"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/movhorizontal8"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/movhorizontal9"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/movhorizontal10"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/movhorizontal11"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/movhorizontal12"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/movhorizontal13"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/movhorizontal14"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/movhorizontal15"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/movhorizontal16"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/movhorizontal17"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/movhorizontal18"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/movhorizontal19"
+        android:duration="100" />
+
+</animation-list>

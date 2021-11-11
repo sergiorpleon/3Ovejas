@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+
+    <item
+        android:drawable="@drawable/movvertical1"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/movvertical2"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/movvertical3"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/movvertical4"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/movvertical5"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/movvertical6"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/movvertical7"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/movvertical8"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/movvertical9"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/movvertical10"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/movvertical11"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/movvertical12"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/movvertical13"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/movvertical14"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/movvertical15"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/movvertical16"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/movvertical17"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/movvertical18"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/movvertical19"
+        android:duration="100" />
+
+</animation-list>
